@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34825.169
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageRenamer", "ImageRenamer\ImageRenamer.csproj", "{0AD761E2-C93B-4FDF-B74C-DB9DB62A19FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PhotoRenamer", "PhotoRenamer\PhotoRenamer.csproj", "{0AD761E2-C93B-4FDF-B74C-DB9DB62A19FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
